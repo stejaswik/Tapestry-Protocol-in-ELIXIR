@@ -2,9 +2,9 @@
 
 1. Implement network join and routing using Tapestry Protocol. <br />
 
-2. To run the code: to\path\project3>mix run project3.exs <numNodes> <numRequests> <br />
+2. To run the code: to\path\dir>mix run project3.exs <numNodes> <numRequests> <br />
 
-3. BONUS - For failure model: to\path\project3>mix run project3.exs <numNodes> <numRequests> <numFailureNodes> <br />
+3. BONUS - For failure model: to\path\dir>mix run project3.exs <numNodes> <numRequests> <numFailureNodes> <br />
 
 4. Tapestry algorithm works for given number of nodes, number of requests, and number of nodes failed. <br />
    We get the maximum hop count as the output. <br />
